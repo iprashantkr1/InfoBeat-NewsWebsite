@@ -7,3 +7,7 @@ Finance Page:
 
 Search Result for "ChatGPT" :
 ![image](https://github.com/iprashantkr1/NewsWebsite/assets/67536443/8d62937c-b651-46c8-98b2-af8ec84df75b)
+
+PS: The website is not loading because if  the project is being used in production, we have to upgrade to a paid plan.
+![image](https://github.com/iprashantkr1/NewsWebsite/assets/67536443/c379bbf2-638e-4e17-86cc-1f2d63db9a98)
+
